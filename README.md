@@ -6,13 +6,21 @@ List Items: Displays available items in the vending machine.
 Add Item: Adds a specified quantity of an item to the inventory.
 
 Insert Money: Accepts money in denominations of 1, 2, or 3 dollars.
+
 Purchase: Allows the purchase of an item if it's in stock and the user has sufficient balance.
+
 Display Change: Shows the remaining balance and resets it to zero.
+
 Get Item Price: Retrieves the price of a specified item.
+
 Empty Inventory: Clears all items from the inventory.
+
 Get Total Sales: Displays the total sales amount.
+
 Get Item Quantity: Retrieves the quantity of a specified item.
+
 Remove Item: Removes a specified item from the inventory.
+
 Sales Statistics: Shows the sales history for the most recent n purchases.
 
 **EXAMPLE**
