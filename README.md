@@ -2,7 +2,9 @@ This project simulates a vending machine using Python. It allows users to add it
 
 **Features**
 List Items: Displays available items in the vending machine.
+
 Add Item: Adds a specified quantity of an item to the inventory.
+
 Insert Money: Accepts money in denominations of 1, 2, or 3 dollars.
 Purchase: Allows the purchase of an item if it's in stock and the user has sufficient balance.
 Display Change: Shows the remaining balance and resets it to zero.
